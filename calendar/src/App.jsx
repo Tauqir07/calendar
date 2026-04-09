@@ -1,4 +1,4 @@
-import WallCalendar from "./WallCalendar"; // adjust name if needed
+import WallCalendar from "./WallCalendar"; 
 
 function App() {
   return (
@@ -8,4 +8,4 @@ function App() {
   );
 }
 
-export default App; // 🚨 THIS LINE IS REQUIRED
+export default App; 
