@@ -26,3 +26,5 @@ This project is a responsive component that allows users to:
 - Responsive design
 
 ## Screenshots 
+<img width="1133" height="836" alt="image" src="https://github.com/user-attachments/assets/a44afbfc-06b2-4b52-bdfc-8555c4d1d5ae" />
+
